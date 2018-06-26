@@ -1,3 +1,6 @@
 [submodule "seq2seq"]
 	path = seq2seq
 	url = https://github.com/tensorflow/nmt/
+[submodule "tensorflow-for-poets-2"]
+	path = tensorflow-for-poets-2
+	url = https://github.com/googlecodelabs/tensorflow-for-poets-2
